@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Mohammed Imran",
+    "occupation": "React Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Imran! You might also know me as React Developer. I've been coding for over 1 year now. As a Frontend developer I've worked with startups corporations to help build & scale their companies. My passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now started to train new developers across the globe.",
+    "contactmessage": "Get in touch with me to be a part of the good team!",
+    "email": "mechmdim4an@gmail.com",
+    "phone": "+91 9686624424",
+    "address": {
+      "street": "Madar Khan Mohalla, Ramanagaram",
+      "city": "Bengaluru,",
+      "state": "Karnataka",
+      "zip": "562159"
+    },
+    "website": "https://github.com/mechmdim4an/",
+    "resumedownload": "https://imran.hackerresume.io/37378e1c-5156-4557-8f4f-c2a23f6fa0c0",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mohammed.imran.94043626/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dr-mohammed-imran-22522157/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dr._mohammed_imran/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mechmdim4an",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Ghousia College of Engineering",
+        "degree": "Bachelor's Degree, Mechanical Engineering & Master's Degree, Machine Design",
+        "graduated": "September 2012 & November 2014",
+        "description": "Graduated First Class with Distinction Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "access",
+        "title": "Frontend developer",
+        "years": "May 2021 - Present",
+        "description": "Task based projects."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "82%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebookClone.png",
+        "url": "https://facebook-clone-a7986.web.app"
+      },
+      {
+        "title": "TinDog (bootstrap)",
+        "category": "",
+        "image": "TinDog.png",
+        "url": "https://mechmdim4an.github.io/TinDog_by_Imran/"
+      },
+      {
+        "title": "Drum Kit (JS)",
+        "category": "",
+        "image": "DrumKit.png",
+        "url": "https://mechmdim4an.github.io/Drum_Kit/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”",
+        "user": "Bill Gates"
+      },
+      {
+        "text": "“Talk is cheap. Show me the code.”",
+        "user": "Linus Torvalds"
+      }
+    ]
+  }
+}
