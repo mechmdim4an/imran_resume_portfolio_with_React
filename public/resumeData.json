@@ -4,7 +4,7 @@
     "occupation": "React Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Imran! You might also know me as React Developer. I've been coding for over 1 year now. As a Frontend developer I've worked with startups corporations to help build & scale their companies. My passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now started to train new developers across the globe.",
+    "bio": "Hi there! I am Imran! You might also know me as React Developer. I've been coding for over 6 months now. As a Frontend developer I've worked on projects to build & scale my knowledge. My passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I am planning to train new developers across the globe.",
     "contactmessage": "Get in touch with me to be a part of the good team!",
     "email": "mechmdim4an@gmail.com",
     "phone": "+91 9686624424",
@@ -51,10 +51,10 @@
     ],
     "work": [
       {
-        "company": "access",
+        "company": "FRESHER",
         "title": "Frontend developer",
-        "years": "May 2021 - Present",
-        "description": "Task based projects."
+        "years": "",
+        "description": "Self & Task based projects."
       }
     ],
     "skills": [
@@ -82,6 +82,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazonClone.png",
+        "url": "https://amazon-i-0-react-js.vercel.app/"
+      },
       {
         "title": "Facebook Clone (React JS)",
         "category": "",
