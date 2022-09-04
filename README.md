@@ -1,6 +1,6 @@
 # Imran Resume and Digital Portfolio
 
-<a href="#">CLICKING HERE</a>
+<a href="https://imran-resume.netlify.app/">CLICKING HERE</a>
 
 
 ## Resume Description
