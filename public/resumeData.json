@@ -83,7 +83,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Shopping Aapp (React JS)",
+        "title": "Shopping App (React JS)",
         "category": "",
         "image": "amazonClone.png",
         "url": "https://shopping-app-i-0-react-js.vercel.app/"
