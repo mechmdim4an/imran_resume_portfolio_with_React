@@ -83,13 +83,13 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Amazon Clone (React JS)",
+        "title": "Shopping Aapp (React JS)",
         "category": "",
         "image": "amazonClone.png",
-        "url": "https://amazon-i-0-react-js.vercel.app/"
+        "url": "https://shopping-app-i-0-react-js.vercel.app/"
       },
       {
-        "title": "Facebook Clone (React JS)",
+        "title": "Social-media-website (React JS)",
         "category": "",
         "image": "facebookClone.png",
         "url": "https://facebook-clone-a7986.web.app"
